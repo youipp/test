@@ -1,11 +1,15 @@
-#include "guest.h"
+
 #include "menu.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+
+
 
 int main(){
-    int menu;
-
     displayMenu();
-    menu = addGuest();
-    displayGuest(menu);
+    
     return 0;
 }
