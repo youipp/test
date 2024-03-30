@@ -1,13 +1,15 @@
-
 CC = gcc
+EXEC = C006.exe
+SRC = main.c menu.c
+OBJ = $(SRC:.c=.o)
 
-go : C006
-	./C006
-C006 : main.c menu.o
-	gcc -o C006 main.c menu.o
+go : $(EXEC)
+	.\$(EXEC)
+$(EXEC) : main.c menu.o
+	$(CC) -o $(EXEC) main.c menu.o
 menu.o : menu.c menu.h
-	gcc -c menu.c
+	$(CC) -c menu.c
 
-clean:
-    rm -f *.o
-    rm -f C006
+# clean: 
+#     del menu.o
+#     del C006.exe
