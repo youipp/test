@@ -28,8 +28,35 @@
 
 4번을 누르면 단어 수 범위로 채널을 검색할 것인지, 이름으로 검색할 것인지 물어보고 단어 수 범위로 찾겠다고 답하면 그 수 안의 책을 출력해준다. 이름이면 이름이 포함된 책을 알려준다.
 
+![5번실행.png](https://github.com/youipp/test/blob/b1/5%EB%B2%88%EC%8B%A4%ED%96%89.png)
+
+
 ![5번실행1.png](https://github.com/youipp/test/blob/b1/5%EB%B2%88%EC%8B%A4%ED%96%891.png)
 
 
 5번을 누르면 유튜브 채널을 새로 추가할 수 있다. 이름과 구독자 수를 입력해서 추가한다.
 1번을 누르면 추가한 유튜브 채널을 포함한 정보가 목록으로 출력된다.
+
+![6번실행.png](https://github.com/youipp/test/blob/b1/6%EB%B2%88%EC%8B%A4%ED%96%89.png)
+
+![6번실행1.png](https://github.com/youipp/test/blob/b1/6%EB%B2%88%EC%8B%A4%ED%96%891.png)
+
+6번을 누르면 원하는 채널의 정보를 수정할 수 있다. 
+
+![7번실행.png](https://github.com/youipp/test/blob/b1/7%EB%B2%88%EC%8B%A4%ED%96%89.png)
+
+![7번실행1.png](https://github.com/youipp/test/blob/b1/7%EB%B2%88%EC%8B%A4%ED%96%891.png)
+
+7번을 누르면 원하는 책을 삭제할 수 있다. 원하는 책에 마지막 책 정보를 덮어씌우고 마지막 순서인 책을 삭제한다.
+
+![8번실행.png](https://github.com/youipp/test/blob/b1/8%EB%B2%88%EC%8B%A4%ED%96%89.png)
+
+![8번실행1.png](https://github.com/youipp/test/blob/b1/8%EB%B2%88%EC%8B%A4%ED%96%891.png)
+
+![8번실행2.png](https://github.com/youipp/test/blob/b1/8%EB%B2%88%EC%8B%A4%ED%96%892.png)
+
+![8번실행3.png](https://github.com/youipp/test/blob/b1/8%EB%B2%88%EC%8B%A4%ED%96%893.png)
+
+![8번실행4.png](https://github.com/youipp/test/blob/b1/8%EB%B2%88%EC%8B%A4%ED%96%894.png)
+
+8번을 누르면 Books.txt 파일에 수정된 내용을 저장한다.
