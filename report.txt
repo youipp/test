@@ -1,0 +1,38 @@
+Book List
+[ 1] TheNewBoston             802512 words [Silver] 
+[ 2] DerekBanas                 9762 words [Opal] 
+[ 3] theComputerGuy             8985 words [Opal] 
+[ 4] ProgrammingKnowledge       2312 words [Opal] 
+[ 5] Poem                      55555 words [Opal] 
+[ 6] TraversyMedia           1780811 words [Gold] 
+[ 7] LearnCode.academy           691 words [Graphite] 
+[ 8] ProgrammingwithMosh         371 words [Graphite] 
+[ 9] DesignCourse               7874 words [Opal] 
+[10] HiteshChoudhary           87101 words [Bronze] 
+[11] DevTips                  862754 words [Silver] 
+[12] Codecourse               817303 words [Silver] 
+[13] Academind                971934 words [Silver] 
+[14] LevelUpTuts              291318 words [Silver] 
+[15] Treehouse                  2298 words [Opal] 
+[16] LearnWebCode               8657 words [Opal] 
+[17] AdamKhoury                77985 words [Bronze] 
+[18] DarrelWilson             788111 words [Silver] 
+[19] StefanMischook            27874 words [Bronze] 
+[20] Joe                      681582 words [Silver] 
+[21] ParysAcademy               8027 words [Opal] 
+[22] JREAM                     72229 words [Bronze] 
+[23] 1stWebDesigner            75434 words [Bronze] 
+[24] NeilRowe                   5219 words [Opal] 
+[25] JoshuaFluke                9823 words [Opal] 
+[26] JesseShowalter             4067 words [Opal] 
+[27] ChrisCoyier                2044 words [Opal] 
+[28] ChrisSean                 56289 words [Bronze] 
+[29] Tuts+WebDesign            90165 words [Bronze] 
+[30] Bible                   7777777 words [Gold] 
+
+Statistics of Books
+Graphite : 2 Books, Average 531.0 words, Top Book : LearnCode.academy (691 words)
+Opal : 12 Books, Average 10385.3 words, Top Book : Poem (55555 words)
+Bronze : 7 Books, Average 69582.4 words, Top Book : Tuts+WebDesign (90165 words)
+Silver : 7 Books, Average 745073.4 words, Top Book : Academind (971934 words)
+Gold : 2 Books, Average 4779294.0 words, Top Book : Bible (7777777 words)
